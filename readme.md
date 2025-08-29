@@ -171,3 +171,5 @@ Choose theme
 ![alt text](image-7.png)
 
 Login using the initial user credential created. 
+
+Site live at : http://localhost/openemr
